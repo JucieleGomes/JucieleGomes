@@ -1,9 +1,7 @@
 
 ![image](https://github.com/JucieleGomes/JucieleGomes/assets/127780316/c42925e4-7ee2-4c36-8b66-30af1e40822d)
 
-### Olá, eu sou Juciele Gomes! 👩‍💻
-
-Meu nome é Juciele e estou em transição de carreira para a área de tecnologia. Atualmente, estou cursando o bootcamp Laboratória de desenvolvimento web, onde estou aprendendo e aprimorando minhas habilidades em JavaScript, HTML e CSS.
+### Olá! 👩‍💻
 
 #### Sobre mim:
 

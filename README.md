@@ -16,7 +16,7 @@
 - 🔨 Linguagens e ferramentas:
 
   
-![2431468-middle-removebg-preview](https://github.com/JucieleGomes/JucieleGomes/assets/127780316/b0a02ca8-e75e-413d-af5f-4e9445f5c669)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,firebase,vite,vercel,jest,git,bootstrap,figma&theme=dark)](https://skillicons.dev)
 
 
 
